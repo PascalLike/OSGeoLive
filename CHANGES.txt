@@ -46,7 +46,7 @@ Version 11.0alpha1
  * GRASS 7.2.1
  * OpenLayers 4.1.1
  * Leaflet 1.0.3
- * GeoNetwork 2.3.1
+ * GeoNetwork 3.2.1
  * pycsw 2.0.3
  * pgRouting 2.4.1
  * MapServer 7.0.5
